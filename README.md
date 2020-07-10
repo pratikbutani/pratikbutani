@@ -13,7 +13,7 @@ I really feeling proud to up-vote [My Favorite][1] #SO friend..
 
 => Visit my blogs for learning new things : [Happy to Help :) :)][4]
 
-=> My Apps on Playstore: [AndroidButs][5] & [PratikButani][6]
+=> My Apps on Playstore: [SwastikApps][5] & [PratikButani][6]
 
 => My Articles on [Medium][7]
 
@@ -36,7 +36,7 @@ More about me :) -> [Pratik Butani][13]
   [2]: http://data.stackexchange.com/stackoverflow/query/418100/top-300-users-in-india
   [3]: https://data.stackexchange.com/stackoverflow/query/971056/list-of-most-reputed-users-in-a-given-location-case-sensitive?Top=20&Location=Gujarat
   [4]: http://pratikbutani.com
-  [5]: https://play.google.com/store/apps/developer?id=DroidButs
+  [5]: https://play.google.com/store/apps/developer?id=SwasTik+Apps
   [6]: https://play.google.com/store/apps/developer?id=Pratik%20Butani
   [7]: https://medium.com/@pratikbutani
   [8]: http://www.linkedin.com/in/pratikbutani
