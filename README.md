@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**ツ Fell in Love with Android ツ**
+**ツ Fell in Love with Android since 2013 ツ**
 
 I really feeling proud to up-vote [My Favorite][1] #SO friend..
 
