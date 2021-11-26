@@ -9,7 +9,7 @@ I really feeling proud to up-vote [My Favorite][1] #SO friend..
 
 => Being Helpful by Nature ;)
 
-=> Now in List of  [Top 100 User's (90)][2] in India and [Top 10 User's (6th)][3] in Gujarat as *Highest Reputation Holder* on StackOverflow
+=> Now in List of  [Top 100 User's (90th)][2] in India and [Top 10 User's (6th)][3] in Gujarat as *Highest Reputation Holder* on StackOverflow
 
 => Visit my blogs for learning new things : [Happy to Help :) :)][4]
 
