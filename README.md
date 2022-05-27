@@ -31,6 +31,12 @@ I really feeling proud to up-vote [My Favorite][1] #SO friend..
 
 More about me :) -> [Pratik Butani][13]
 
+
+**Watch my contribution graph get eaten by snack 🐍 😆**
+![snake gif](https://github.com/pratikbutani/pratikbutani/blob/output/github-contribution-grid-snake.svg)
+
+
+
 ![States on GitHub](https://github-readme-stats.vercel.app/api?username=pratikbutani&show_icons=true&hide_border=true)
 
   [1]: http://stackoverflow.com/users/current
